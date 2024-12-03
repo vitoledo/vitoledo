@@ -12,7 +12,7 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/victor-de-toledo-4957b4308/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="https://www.instagram.com/vittoledo/profilecard/?igsh=c2p6N2ppYWMwNGcz" target="_blank"><img src="https://img.shields.io/badge/-instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.instagram.com/vittoledo/" target="_blank"><img src="https://img.shields.io/badge/-instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:

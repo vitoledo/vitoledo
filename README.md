@@ -15,31 +15,3 @@
   <a href="https://www.instagram.com/vittoledo/" target="_blank"><img src="https://img.shields.io/badge/-instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
-### Main skills:
-![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=HTML53&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitoledo}/count.svg" /></p> 
-<br></div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-

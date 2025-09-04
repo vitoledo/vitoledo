@@ -6,6 +6,6 @@
 
 <p>
 Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na ETEC Bento Quirino.<br/>
-Tenho experiência em <strong>Node.js, JavaScript, APIs, Iot principalmente com ESP32</strong> e desenvolvimento de projetos integrados com hardware.
+Tenho experiência em <strong>Node.js, JavaScript, TypeScript, APIs, Iot principalmente com ESP32</strong> e desenvolvimento de projetos integrados com hardware.
 Apaixonado por tecnologia, aprendizado contínuo e desafios de codificação.
 </p>

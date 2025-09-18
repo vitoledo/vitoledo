@@ -1,11 +1,12 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=vitoledo&show_icons=true&title_color=000000&text_color=898989&icon_color=000000&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
+## What’s up ⚡
 
-### Olá, meu nome é Victor de Toledo!
+### Back-End Developer and Systems Development Student
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Victor%20de%20Toledo&color=ffffff&style=for-the-badge&logo=GitHub&logoColor=000000" alt="Static GitHub">
+Back-End Developer at [Code Borges](https://github.com/CODE-BORGES)<br>
+Systems Development Student at [ETEC Bento Quirino](https://etecbentoquirino.com.br/new/)<br>
 
-<p>
-Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na ETEC Bento Quirino.<br/>
-Tenho experiência em <strong>Node.js, JavaScript, TypeScript, APIs, Iot principalmente com ESP32</strong> e desenvolvimento de projetos integrados com hardware.
-Apaixonado por tecnologia, aprendizado contínuo e desafios de codificação.
-</p>
+- ⚙️ I use: `.ts`, `.js`, `.yml`, `.html`, `.css`, `.py`, `.json`, `.ino`
+- 🌍 I'm mostly active within the **API Development & Back-End Development Community**
+- 💬 `ping` me about **development**, **APIs**, **games**, **design thinking**, **tech learning**, **branding**, **system design**
+
+
